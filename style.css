@@ -3,19 +3,19 @@
     background-color: #14f4f0;
     padding: 20px;
     text-align: center;
-    color: rgb(13, 13, 13);
+    color: rgb(57, 22, 232);
 }
 
 /* Estilos para la barra de navegación */
 nav a {
-    color: black;
+    color: rgba(240, 193, 7, 0.842);
     text-decoration: none;
     margin: 0 15px;
     font-weight: bold;
 }
 
 nav a:hover {
-    color: #ffeb3b;
+    color: #0ff087;
 }
 
 /* Estilos para la sección principal */
@@ -23,25 +23,25 @@ nav a:hover {
     width: 90%;
     margin: 20px auto;
     padding: 15px;
-    background-color: #f4f4f4;
+    background-color: #aff40c;
     border-radius: 8px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
 .container h2 {
-    color: #333;
+    color: #f70808;
 }
 
 .container p {
     font-size: 16px;
-    color: #555;
+    color: #ab0cd7;
     line-height: 1.6;
 }
 
 /* Estilos para el pie de página */
 footer {
-    background-color: #333;
-    color: white;
+    background-color: #09f32d;
+    color: rgb(244, 10, 119);
     text-align: center;
     padding: 10px 0;
     margin-top: 20px;
